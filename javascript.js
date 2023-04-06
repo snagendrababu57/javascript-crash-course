@@ -12,3 +12,5 @@ console.log(salary)
 let sum = 0
 sum = 10
 console.log(sum)
+let college = "svr degree collage"
+ 
